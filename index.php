@@ -6,6 +6,8 @@
  * Time: 18:56
  */
 
+echo "testando";
+
 phpinfo();
 
 ?>
