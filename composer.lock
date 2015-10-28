@@ -4,26 +4,31 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5f5f121820e72d190f3ad353941acc77",
+    "hash": "bcea3029d123a68b37e2041604cffc78",
     "packages": [
         {
             "name": "monolog/monolog",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "433b98d4218c181bae01865901aac045585e8a1a"
+                "reference": "b704c49a3051536f67f2d39f13568f74615b9922"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/433b98d4218c181bae01865901aac045585e8a1a",
-                "reference": "433b98d4218c181bae01865901aac045585e8a1a",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/b704c49a3051536f67f2d39f13568f74615b9922",
+                "reference": "b704c49a3051536f67f2d39f13568f74615b9922",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0"
             },
             "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Monolog": "src/"
+                }
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
@@ -42,7 +47,7 @@
                 "log",
                 "logging"
             ],
-            "time": "2011-07-07 16:21:02"
+            "time": "2011-10-24 09:39:02"
         }
     ],
     "packages-dev": [],
