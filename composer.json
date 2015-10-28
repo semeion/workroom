@@ -8,5 +8,11 @@
       "name": "Alexandre Bolelli",
       "email": "email@example.com"
     }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/semeion/workroom"
+    }
   ]
 }
