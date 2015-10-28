@@ -1,0 +1,12 @@
+{
+  "name": "semeion/workroom",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexandre Bolelli",
+      "email": "email@example.com"
+    }
+  ]
+}
