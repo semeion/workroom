@@ -14,5 +14,8 @@
       "type": "vcs",
       "url": "https://github.com/semeion/workroom"
     }
-  ]
+  ],
+  "require": {
+    "monolog/monolog": "1.0.0"
+  }
 }
